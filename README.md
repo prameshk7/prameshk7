@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pramesh
-- 👀 I’m interested in CODING
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in doing something
+- 🌱 Grow
 
 
 <!---
