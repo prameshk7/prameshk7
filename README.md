@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on HmaroSamaj-FYP
+💻I'm currently working on HamroSamaj-FYP
 
 
 ## 🌐 Socials:
