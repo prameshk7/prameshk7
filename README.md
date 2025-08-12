@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Currently working as a backend developer
+💻Currently working at YouthIT as full-stack developer
 
 
 ## 🌐 Socials:
